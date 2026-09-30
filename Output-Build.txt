@@ -1,0 +1,6 @@
+﻿Build started at 12:35 PM...
+1>------ Build started: Project: search task, Configuration: Debug Any CPU ------
+1>  Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>  search task -> D:\backend.net\tasks\task1\search task\bin\Debug\net10.0\search task.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 12:35 PM and took 00.243 seconds ==========
